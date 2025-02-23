@@ -1,0 +1,24 @@
+/* assets/background.css */
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+body {
+  background: linear-gradient(270deg, #313a45, #1f62af);
+  background-size: 400% 400%;
+  animation: gradient 15s ease infinite;
+  margin: 0; /* Remove default margin */
+  height: 100vh; /* Full height */
+  width: 100vw; /* Full width */
+  position: fixed; /* Fix position */
+}
+
+
