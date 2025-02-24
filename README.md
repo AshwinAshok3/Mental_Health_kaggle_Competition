@@ -59,9 +59,9 @@
 
   <h2 class="emoji">📊 Dataset Overview</h2>
   <ul>
-      <li class="emoji">🔹 <b>140,000+ records</b> with mental health-related features</li>
-      <li class="emoji">🔹 High noise levels & inconsistencies required deep cleaning</li>
-      <li class="emoji">🔹 Complex categorical & numerical features demanding transformation</li>
+      <li class="emoji"><b>140,000+ records</b> with mental health-related features</li>
+      <li class="emoji">High noise levels & inconsistencies required deep cleaning</li>
+      <li class="emoji">Complex categorical & numerical features demanding transformation</li>
   </ul>
 
   <p><span class="emoji">⚡</span> <b>Data cleaning was a major challenge</b>, consuming a significant portion of the project timeline. Rather than using standard methods, I implemented <b>custom algorithms</b> to automate and refine:</p>
@@ -75,28 +75,28 @@
   <h2 class="emoji">🔥 Tech Stack & Libraries Used</h2>
   <ul>
       <li class="emoji">🛠 <b>Frameworks & Tools:</b></li>
-      <li>🔹 TensorFlow – Core deep learning framework</li>
-      <li>🔹 Keras Tuner – Hyperparameter tuning for model optimization</li>
-      <li>🔹 scikit-learn – Feature engineering, mutual_info_classif, train_test_split</li>
-      <li>🔹 Pandas & NumPy – Custom-built data preprocessing algorithms</li>
-      <li>🔹 Matplotlib & Seaborn – Visual analytics for understanding dataset distributions</li>
-      <li>🔹 Kaggle API – Dataset handling & experimentation</li>
+      <li>TensorFlow – Core deep learning framework</li>
+      <li>Keras Tuner – Hyperparameter tuning for model optimization</li>
+      <li>scikit-learn – Feature engineering, mutual_info_classif, train_test_split</li>
+      <li>Pandas & NumPy – Custom-built data preprocessing algorithms</li>
+      <li>Matplotlib & Seaborn – Visual analytics for understanding dataset distributions</li>
+      <li>Kaggle API – Dataset handling & experimentation</li>
   </ul>
 
   <h2 class="emoji">⚙️ Model Development & Optimization</h2>
 
   <h3 class="emoji">🏗 Step 1: Exploratory Data Analysis (EDA)</h3>
   <ul>
-      <li>🔹 Conducted in-depth statistical analysis</li>
-      <li>🔹 Built visualization reports using Seaborn & Matplotlib</li>
-      <li>🔹 Identified patterns & correlations for feature engineering</li>
+      <li>Conducted in-depth statistical analysis</li>
+      <li>Built visualization reports using Seaborn & Matplotlib</li>
+      <li>Identified patterns & correlations for feature engineering</li>
   </ul>
 
   <h3 class="emoji">✨ Step 2: Data Cleaning & Feature Engineering</h3>
   <ul>
-      <li>🔹 Extensively worked on data cleaning – Developed custom algorithms to handle missing values & inconsistencies</li>
-      <li>🔹 Applied mutual_info_classif for feature selection</li>
-      <li>🔹 Standardized data using scaling techniques</li>
+      <li>Extensively worked on data cleaning – Developed custom algorithms to handle missing values & inconsistencies</li>
+      <li>Applied mutual_info_classif for feature selection</li>
+      <li>Standardized data using scaling techniques</li>
   </ul>
 
   <h3 class="emoji">🏋️ Step 3: Model Training & Hyperparameter Tuning</h3>
